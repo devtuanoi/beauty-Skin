@@ -601,18 +601,21 @@ p.techer {
 }
 
 b.header-content-shop {
-    font-size: 35px;
+    font-size: 28px;
 }
 
 p.p-content-shop {
-    margin-top: 2rem;
+    font-size: 25px;
+    
+}
+
+p.p-content-shop2 {
     font-size: 25px;
 }
 
 .face-mouse {
     width: 700px;
     height: 300px;
-    margin-top: 1rem;
 }
 
 .button-container-shop {
